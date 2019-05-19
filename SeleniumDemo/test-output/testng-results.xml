@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="38649" started-at="2019-05-19T10:24:32Z" finished-at="2019-05-19T10:25:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="38649" started-at="2019-05-19T10:24:32Z" finished-at="2019-05-19T10:25:10Z">
+      <class name="com.GmailTest">
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:com.GmailTest@224aed64]" name="launchBrowser" is-config="true" duration-ms="6870" started-at="2019-05-19T10:24:32Z" finished-at="2019-05-19T10:24:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="DemoTest()[pri:0, instance:com.GmailTest@224aed64]" name="DemoTest" duration-ms="29673" started-at="2019-05-19T10:24:39Z" finished-at="2019-05-19T10:25:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- DemoTest -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.GmailTest@224aed64]" name="close" is-config="true" duration-ms="2083" started-at="2019-05-19T10:25:08Z" finished-at="2019-05-19T10:25:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.GmailTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
